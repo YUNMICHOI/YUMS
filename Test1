@@ -1,0 +1,5 @@
+a=1
+b=2
+test_variable=1
+type(test_variable)
+print("Hi")
